@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.9.1]
+
+### Dependencies
+
+- Updated to latest `covector`
+
 ## \[0.9.0]
 
 ### Dependencies
