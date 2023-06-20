@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.8.1]
+
+### Dependencies
+
+- Updated to latest `@covector/files`
+
 ## \[0.8.0]
 
 ### Dependencies

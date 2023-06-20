@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.9.0]
+
+- [`5b7ab24`](https://www.github.com/jbolda/covector/commit/5b7ab24f3e6b51743bf62711ff761f919467a207)([#274](https://www.github.com/jbolda/covector/pull/274)) Add support to Cargo's `build-dependencies` and target-specific dependencies.
+- [`db3b43d`](https://www.github.com/jbolda/covector/commit/db3b43d4f98d8760d307303a66570fd5a165b4ec)([#273](https://www.github.com/jbolda/covector/pull/273)) Try to determine actual package name when bumping dependencies to support nicknames in the packages configuration.
+
 ## \[0.8.0]
 
 ### Dependencies
